@@ -3,6 +3,10 @@
 ## Overview 
 This repository showcases a collection of different calculators I've created, using python.
 
+## Author
+Peachi Bauman
+January 2025 v1
+
 ## Calculators Included
 ### Basic Arithmetic Calculator
 A simple calculator that handles the basic arithmetic functions, addition, subtraction, multiplication, and division. It is run directly using python, without a GUI. [code](basic_calc.py)
